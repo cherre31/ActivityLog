@@ -21,7 +21,6 @@ namespace ActivityLog.Controllers
         }
 
         // GET: Activities
-        [Authorize]
         public async Task<IActionResult> Index()
         {
               return _context.Activity != null ? 
