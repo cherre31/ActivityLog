@@ -24,6 +24,7 @@ namespace ActivityLog.Controllers
         public async Task<IActionResult> Index()
         {
               return _context.Activity != null ? 
+                //ask why await did not work
                           View(_context.Activity.OrderByDescending(j=>j.Created)) :
                           Problem("Entity set 'ApplicationDbContext.Activity'  is null.");
         }
