@@ -39,11 +39,11 @@ After everything as been trusted the homepage will be brought up.  Some browsers
 
 ![Homepage](https://user-images.githubusercontent.com/128923702/228894308-eb06cc4d-96e5-4a34-97c8-f03e4a6d9f26.png)
 
-Once the activities tab is opened you should see an error message.  This is because the database have not been created.  Click on Apply Migrations to have them generated.
+Once the activities page is opened you should see an error message.  This is because the database have not been created.  Click on Apply Migrations to have them generated.
 
 ![failedtoopendatabase](https://user-images.githubusercontent.com/128923702/228886381-bf90d710-5112-4d5a-b734-e3f5eadc5a0e.png)
 
-Refresh the page to view the updated activities tab, and installation is complete. 
+Refresh the page to view the updated activities page, and installation is complete. 
 
 ![databasenowavailable](https://user-images.githubusercontent.com/128923702/228886422-442efeba-53c5-4f17-9f9d-5ea957f447e7.png)
 
@@ -53,7 +53,7 @@ From the homepage you can see several tabs.
 
 ![Homepage](https://user-images.githubusercontent.com/128923702/228898654-829e0e65-09e5-4a61-ada1-f5fa7949349f.png)
 
-If you navigate to the Activities tab you can see the option to Create a new data entry.  
+If you navigate to the Activities page you can see the option to Create a new data entry.  
 
 ![databasenowavailable](https://user-images.githubusercontent.com/128923702/228903419-42e036b2-d495-48cc-b91e-94d04b998fe9.png)
 
