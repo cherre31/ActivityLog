@@ -35,7 +35,7 @@ Then you will be prompted to install the certificate.  Press yes to install it.
 
 You may have to repeat that process. 
 
-After everything as been trusted the homepage will be brought up.  You can click on the activities tab to complete the installation.
+After everything as been trusted the homepage will be brought up.  Some browsers may ask you to accept the risk to continue others may not.  You can click on the activities tab to complete the installation.
 
 ![Homepage](https://user-images.githubusercontent.com/128923702/228894308-eb06cc4d-96e5-4a34-97c8-f03e4a6d9f26.png)
 
@@ -94,6 +94,8 @@ Next, we will delete an entry.  In the activities page select the delete link at
 And the entry has been deleted.
 
 ![postdelete](https://user-images.githubusercontent.com/128923702/228904639-303dc3fc-14d0-448d-b607-5e49f5539716.png)
+
+With that all the major features have been covered.
 
 
 
