@@ -34,4 +34,31 @@ Refresh the page to view the updated activities tab, and installation is complet
 ![databasenowavailable](https://user-images.githubusercontent.com/128923702/228886422-442efeba-53c5-4f17-9f9d-5ea957f447e7.png)
 
 ## How to Use
+After everything has been installed you can go about using the web application normally.
+From the homepage you can see several tabs. 
+![Homepage](https://user-images.githubusercontent.com/128923702/228898654-829e0e65-09e5-4a61-ada1-f5fa7949349f.png)
+If you navigate to the Activities tab you can see the option to Create a new data entry.  
+![databasenowavailable](https://user-images.githubusercontent.com/128923702/228903419-42e036b2-d495-48cc-b91e-94d04b998fe9.png)
+Clicking on it will prompt you to sign in.  But since this is a fresh install there are no users stored in the database. 
+![emptylogin](https://user-images.githubusercontent.com/128923702/228903684-bf51d560-64ce-4f77-a302-382da01e9984.png)
+So, we can click on the link that says Register as a new user.
+![registrationpage](https://user-images.githubusercontent.com/128923702/228903726-13bbb894-d2de-4637-a3d2-69383bf13b61.png)
+After inputting the requested information and selecting the Register button we will be met with a Register Confirmation page.  Normally you would receive an email.  But we can just click the link that says Click here to confirm your account.
+![regconfirm](https://user-images.githubusercontent.com/128923702/228903776-5cdda0f7-798e-4a23-a82e-58fbaec2ac58.png)
+![confirmed](https://user-images.githubusercontent.com/128923702/228903797-8213250c-e0af-4155-ba0d-5196e807a01d.png)
+We will have to sign in again in just a moment.  As we navigate back to the Activities page.  We can select Create and sign in this time with the account we just created.  After signing we will see the Create page.  We can input the data and hit create.
+![loginpage](https://user-images.githubusercontent.com/128923702/228903912-0b8cdc5c-a9cc-459f-bb5f-b12ef0a22f92.png)
+![createtab](https://user-images.githubusercontent.com/128923702/228903931-b43de743-62f6-4fbd-9c69-d731e77fc7af.png)
+We will be brought back to the activities page and your entry will now be listed in a table.  From here you can create a new post or make changes to the post that have already been made.  
+![populateddatabase](https://user-images.githubusercontent.com/128923702/228904374-12baba2d-a4f5-4e4a-a828-eeacd7e80d18.png)
+Let’s edit a post.  We will click on the edit link next to one of the entries in the table.  From here we can edit any part of the entry.  When we are done, we can save it.  Or select back to list if no changes were made.  
+![edit](https://user-images.githubusercontent.com/128923702/228904053-59d9c66d-3a40-473b-a516-94085292471d.png)
+We can also view an entry individually.  To do this click on the details link next to edit link.  This will take you to the Details Page we you can view the activity.  There are links to either edit the post or head back to the list. 
+![details](https://user-images.githubusercontent.com/128923702/228904280-b27d61b6-a7a4-4360-99d9-bbf462f654c6.png)
+Next, we will delete an entry.  In the activities page select the delete link at the end of one of the table entries.  From there we will be take to the Delete Page.  We can select the delete button to remove an entry from the database or we can also return to the list.
+![delete](https://user-images.githubusercontent.com/128923702/228904436-0f8c04f9-cac0-49da-87e3-aa0d5ec7f059.png)
+And the entry has been deleted.
+![postdelete](https://user-images.githubusercontent.com/128923702/228904639-303dc3fc-14d0-448d-b607-5e49f5539716.png)
+
+
 
